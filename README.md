@@ -10,7 +10,7 @@ This project is an open source project where you can contribute by:
 - 🧪 Add or improve test coverage
 - 📝 Contribute documentation and code comments
 - 🔧 Enhance accessibility and user experience
-- 🚀 Practice GitHub collaboration workflows (forks, branches, PRs)
+- 🚀 GitHub collaboration workflows (forks, branches, PRs)
 
 ---
 
